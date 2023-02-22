@@ -1,0 +1,32 @@
+project management ->Agile methodology
+Frontend->html,css,javascript,bootstrap,react-js
+reactive page.
+Backend->Springboot,jpa,maven,postman,swagger,log4j,
+lombok,Security.
+Database ->my sql workbench.
+
+Team Iron-Man(TL:-Divya,Mohith,Mahesh):
+->Shweta-Aug Batch(full stack)
+->Tejaswini-Aug Batch(full stack)
+->Shariff-Aug Batch(full stack)
+->Priyanka-Aug Batch(Back End)
+->Satish-Aug Batch(Back End)
+->Anand-Aug Batch(Back End)
+->bheemalinga-Aug Batch(Back End)
+
+Team Captain America(TL:-Arun,Darshan Naik):
+->Pramodh-Aug Batch(full stack)
+->Nagaraj-Aug Batch(full stack)
+->Sushma-Aug Batch(full stack)
+->Netra-Aug Batch(Back End)
+->Sushmitha-Aug Batch(Back End)
+->Sunil-Aug Batch(Back End)
+
+Team Thor(TL:-Sunitha,Mithun):
+->Sagar-Aug Batch(full stack)
+->Shivkumar-Aug Batch(full stack)
+->Junaid-Aug Batch(full stack)
+->Prakruthi-Aug Batch(Back End)
+->AnuKumar-Aug Batch(Back End)
+->Rahul-Aug Batch(Back End)
+->Praveen -Aug Batch(Back End)
